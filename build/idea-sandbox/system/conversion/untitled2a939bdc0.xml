@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Acer Nitro\IdeaProjects\untitled2\.idea\encodings.xml" timestamp="1547312830830" />
+    <file path="C:\Users\Acer Nitro\IdeaProjects\untitled2\.idea\misc.xml" timestamp="1547312832274" />
+    <file path="C:\Users\Acer Nitro\IdeaProjects\untitled2\.idea\modules.xml" timestamp="1547312832311" />
+    <file path="C:\Users\Acer Nitro\IdeaProjects\untitled2\.idea\workspace.xml" timestamp="1551725353649" />
+    <file path="C:\Users\Acer Nitro\IdeaProjects\untitled2\untitled2.iml" timestamp="1547312832267" />
+  </project-files>
+</conversion>
+

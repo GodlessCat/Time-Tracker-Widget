@@ -1,0 +1,27 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+  <component name="FUSApplicationUsageTrigger">
+    <session id="655482535">
+      <usages-collector id="statistics.lifecycle.app">
+        <usage id="ide.start" value="3" />
+        <usage id="ide.close" value="3" />
+      </usages-collector>
+      <usages-collector id="statistics.ide.self.update">
+        <usage id="notification.shown" value="1" />
+      </usages-collector>
+      <usages-collector id="statistics.ui.tips">
+        <usage id="shown.automatically" value="3" />
+      </usages-collector>
+    </session>
+  </component>
+  <component name="ToolWindowsCollector">
+    <counts>
+      <entry toolWindow="Project by Activation" count="3" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" show-notification="false" />
+</application>

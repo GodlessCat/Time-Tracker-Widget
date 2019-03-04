@@ -1,0 +1,41 @@
+<idea-plugin>
+    <id>com.your.company.unique.plugin.id</id>
+    <name>Time Tracker</name>
+    <version>1.0</version>
+    <vendor email="Godless.catt@gmail.com" url="https://vk.com/godlesscat">ITMO</vendor>
+
+    <description><![CDATA[
+      Track all time that you spent on development.<br>
+      <em></em>
+    ]]></description>
+
+    <change-notes><![CDATA[
+      Track all time that you spent on development.<br>
+      <em></em>
+    ]]>
+    </change-notes>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="173.0"/>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+    <project-components>
+        <component>
+            <implementation-class>Component</implementation-class>
+        </component>
+    </project-components>
+
+</idea-plugin>
